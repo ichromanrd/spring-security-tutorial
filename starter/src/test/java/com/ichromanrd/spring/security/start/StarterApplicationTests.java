@@ -1,4 +1,4 @@
-package com.ichromanrd.spring.security.start.starter;
+package com.ichromanrd.spring.security.start;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
